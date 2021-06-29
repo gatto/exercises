@@ -3,7 +3,6 @@
 1. Print 10 times `moon`.
 2. Ask the user for an integer. Print that amount of times the string `moon`.
 3. Store an integer of your choice in a variable called `my_integer`. Print that integer multiplied by 6 and divided by 2, using the variable `my_integer`.
-4. 
 
 ## Formatting of numbers
 
