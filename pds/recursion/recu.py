@@ -25,11 +25,11 @@ def my_product(x:int, y: int, result:int =0) -> int:
 assert my_product(3,6) == 18
 
 # Given a number n, check whether it’s prime number or not
-def isprime(x:int, divisor:int=2)->bool:
-	if divisor>=sqrt(x):
+def isprime(x:int, divisor:int = 2) -> bool:
+	if divisor > sqrt(x):
 		return True
 	else:
-		if x%divisor == 0:
+		if x % divisor == 0:
 			return False
 		else:
 			return isprime(x, divisor + 1)
