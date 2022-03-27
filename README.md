@@ -43,4 +43,4 @@ All my colleagues @ MSc Data Science [@Unipisa](https://github.com/Unipisa) for 
 
 ## My contacts are
 
-Please contact me on [Telegram](t.me/gatto) if you're interested in anything in here. I hope this will be useful to someone. 🙂
+Please contact me on [Telegram](https://t.me/gatto) if you're interested in anything in here. I hope this will be useful to someone. 🙂
